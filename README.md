@@ -1,3 +1,7 @@
+## Demo 🎥
+
+[![Watch the demo](assets/demo.png)]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1CNY0ew6pxOTO597ssgDxzNhkAhSinZ67/view?usp=sharing))
+
 # Steps to connect the authentication and other relevant tables in Database<br>
 
 ## Run the below SQL commands in MySQL Workbench <br>
